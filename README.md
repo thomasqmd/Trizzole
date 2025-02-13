@@ -1,5 +1,5 @@
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Trizzole&theme=radical)](https://git.io/streak-stats)-->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Trizzole)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Trizzole&theme=radical)](https://git.io/streak-stats)
 ### Slowly but surely I'm working on my personal website, you can visit it [here!](https://thomasqmd.quarto.pub/website/)
 
 <!--
